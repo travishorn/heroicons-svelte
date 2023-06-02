@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-	<a href="https://github.com/travishorn.com/heroicons-svelte/releases"><img src="https://img.shields.io/npm/v/@travishorn/heroicons-svelte" alt="Latest Release"></a>
-	<a href="https://github.com/travishorn.com/heroicons-svelte/blob/master/LICENSE"><img
+	<a href="https://github.com/travishorn/heroicons-svelte/releases"><img src="https://img.shields.io/npm/v/@travishorn/heroicons-svelte" alt="Latest Release"></a>
+	<a href="https://github.com/travishorn/heroicons-svelte/blob/master/LICENSE"><img
 	src="https://img.shields.io/npm/l/@travishorn/heroicons-svelte" alt="License"></a>
 </p>
 
