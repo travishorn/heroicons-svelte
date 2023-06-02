@@ -1,5 +1,5 @@
 {
-	"name": "heroicons-svelte",
+	"name": "@travishorn/heroicons-svelte",
 	"version": "1.0.0",
 	"description": "The collection of beautiful hand-crafted SVG icons, by the makers of Tailwind CSS, packaged for Svelte apps.",
 	"scripts": {
