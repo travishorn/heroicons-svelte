@@ -14,6 +14,14 @@
 		"format": "prettier --plugin-search-dir . --write ."
 	},
 	"exports": {
+		"./20/solid": {
+			"types": "./dist/20/solid/index.d.ts",
+			"svelte": "./dist/20/solid/index.js"
+		},
+		"./24/outline": {
+			"types": "./dist/24/outline/index.d.ts",
+			"svelte": "./dist/24/outline/index.js"
+		},
 		"./24/solid": {
 			"types": "./dist/24/solid/index.d.ts",
 			"svelte": "./dist/24/solid/index.js"
