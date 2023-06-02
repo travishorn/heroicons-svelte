@@ -42,7 +42,7 @@ Both icon styles are preconfigured to be stylable by setting the `color` CSS pro
 manually or using utility classes like `text-gray-500` in a framework like [Tailwind
 CSS](https://tailwindcss.com/).
 
-[Browse the full list of icon names on UNPKG →](https://unpkg.com/browse/travishorn/heroicons-svelte/24/outline/)
+[Browse the full list of icon names on UNPKG →](https://unpkg.com/browse/@travishorn/heroicons-svelte/dist/24/outline/)
 
 ## License
 
