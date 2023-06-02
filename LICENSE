@@ -1,33 +1,3 @@
-# Heroicons for Svelte
-
-Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS, packaged for Svelte.
-
-## Usage
-
-First, install `heroicons-svelte` from npm:
-
-```sh
-npm install heroicons-svelte
-```
-
-Now each icon can be imported individually as a Svelte component:
-
-```svelte
-<script>
-	import { BeakerIcon } from 'heroicons-svelte/24/solid';
-</script>
-
-<BeakerIcon class="h-6 w-6 text-blue-500" />
-```
-
-The 24x24 outline icons can be imported from `herocions-svelte/24/outline`, the 24x24 solid icons
-can be imported from `herocions-svelte/24/solid`, and the 20x20 solid icons can be imported from
-`herocions-svelte/20/solid`.
-
-Icons use an upper camel case naming convention and are always suffixed with the word `Icon`.
-
-## License
-
 Copyright 2023 Travis Horn
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and
