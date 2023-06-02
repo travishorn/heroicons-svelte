@@ -32,7 +32,22 @@
 		"!dist/**/*.test.*",
 		"!dist/**/*.spec.*"
 	],
+	"keywords": [
+		"icons",
+		"svelte",
+		"ui",
+		"heroicons"
+	],
+	"author": "Travis Horn <travis@travishorn.com> (https://travishorn.com/)",
 	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/travishorn/heroicons-svelte.git"
+	},
+	"bugs": {
+		"url": "https://github.com/travishorn/heroicons-svelte/issues"
+	},
+	"homepage": "https://github.com/travishorn/heroicons-svelte#readme",
 	"peerDependencies": {
 		"svelte": "^3.54.0"
 	},
