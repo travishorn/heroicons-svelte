@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-	<a href="https://github.com/travishorn/heroicons-svelte/releases"><img src="https://img.shields.io/npm/v/heroicons-svelte" alt="Latest Release"></a>
+	<a href="https://github.com/travishorn/heroicons-svelte/tags"><img src="https://img.shields.io/npm/v/heroicons-svelte" alt="Latest Tag"></a>
 	<a href="https://github.com/travishorn/heroicons-svelte/blob/master/LICENSE"><img
 	src="https://img.shields.io/npm/l/heroicons-svelte" alt="License"></a>
 </p>
