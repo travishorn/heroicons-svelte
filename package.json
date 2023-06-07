@@ -27,6 +27,19 @@
 			"svelte": "./dist/24/solid/index.js"
 		}
 	},
+	"typesVersions": {
+		">4.0": {
+			"20/solid": [
+				"./dist/20/solid/index.d.ts"
+			],
+			"24/outline": [
+				"./dist/24/outline/index.d.ts"
+			],
+			"24/solid": [
+				"./dist/24/solid/index.d.ts"
+			]
+		}
+	},
 	"files": [
 		"dist",
 		"!dist/**/*.test.*",
