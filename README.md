@@ -32,9 +32,9 @@ Now each icon can be imported individually as a Svelte component:
 <BeakerIcon class="h-6 w-6 text-blue-500" />
 ```
 
-The 24x24 outline icons can be imported from `herocions-svelte/24/outline`, the 24x24 solid icons
-can be imported from `herocions-svelte/24/solid`, and the 20x20 solid icons can be imported from
-`herocions-svelte/20/solid`.
+The 24x24 outline icons can be imported from `heroicons-svelte/24/outline`, the 24x24 solid icons
+can be imported from `heroicons-svelte/24/solid`, and the 20x20 solid icons can be imported from
+`heroicons-svelte/20/solid`.
 
 Icons use an upper camel case naming convention and are always suffixed with the word `Icon`.
 
